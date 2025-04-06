@@ -4,7 +4,7 @@
     <main>
         <div class="container py-4">
             <h2 class="text-center mb-4">Admin</h2>
-
+            <!-- Demo -->
             <!-- Category Dropdown -->
             <div class="card p-4 mb-4 shadow-sm">
                 <div class="mb-3">
