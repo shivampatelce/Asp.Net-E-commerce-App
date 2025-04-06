@@ -100,7 +100,7 @@ namespace FinalProject
             {
                 subTotal += item.Quantity * (decimal)item.Product.Price;
             }
-
+            Session["Subtotal"] = subTotal;
             Amount.Text = $"${subTotal:F2}";
 
             // Apply 13% tax
